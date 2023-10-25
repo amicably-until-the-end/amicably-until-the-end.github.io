@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 초간단 숏과외 사용 설명서[학생]
-categories: 공지
-tags: [ 이벤트 ]
+categories: [ 공지 ]
+tags: [ 이벤트, 학생 ]
 ---
 
 # Case 1. 최대한 빨리 답변 받고 싶어요!
