@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 초간단 숏과외 사용 설명서[선생님]
-categories: [ 공지 ]
-tags: [ 이벤트, 선생님 ]
+categories: [ 공지, 선생님 ]
+tags: [ 가이드 ]
 ---
 
 # 수업은 어떻게 진행할 수 있나요?
