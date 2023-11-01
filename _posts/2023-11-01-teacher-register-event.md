@@ -13,7 +13,7 @@ tags: [ 이벤트 ]
 ## 이벤트 참여하는 방법
 
 ## 1. 숏과외 다운받기
-₩구글 플레이스토어₩에서 숏과외 앱을 설치해주세요
+`구글 플레이스토어`에서 숏과외 앱을 설치해주세요
 > [숏과외 설치하기](https://play.google.com/store/apps/details?id=org.softwaremaestro.shorttutoring&hl=ko-KR)
 
 링크 달기
